@@ -2,17 +2,11 @@
 
 
 ````markdown
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E86DE&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Crystal+Aice+👋;Software+Engineering+%7C+Data+Science;Backend+Developer+%7C+FastAPI+%7C+Django;Accounting+Graduate+Passionate+About+Technology;Always+Learning.+Always+Building." />
-</p>
 
-<h1 align="center">Welcome to My GitHub 👨‍💻</h1>
-
-<p align="center">
-Building software that transforms data into decisions.
-</p>
-
+<h1 align="center">Hi 👋 I'm Crystal Aice</h1>
+<h3 align="center">
+Software Engineering • Backend Development • Data Science
+</h3>
 ---
 
 ## 🚀 About Me
@@ -37,8 +31,15 @@ Currently focusing on:
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,sqlite,postgresql,git,github,vscode"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ### Frameworks & Libraries
