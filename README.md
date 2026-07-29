@@ -24,8 +24,6 @@ I'm continuously learning and building projects that strengthen both my technica
 
 * Python
 * SQL
-* HTML
-* CSS
 
 ### Frameworks
 
