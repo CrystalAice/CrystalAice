@@ -150,7 +150,7 @@ Financial Technology
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[CrystalAice](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4)&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=[CrystalAice](https://github-profile-trophy.vercel.app/?username=CrystalAice&theme=tokyonight&no-frame=true&column=4)&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -181,7 +181,7 @@ Financial Technology
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=CrystalAice&label=Profile%20Views&color=blue&style=flat"/>
 
 ⭐ Thanks for visiting my profile!
 
