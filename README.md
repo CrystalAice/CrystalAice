@@ -1,20 +1,17 @@
-## Hi there 👋
-
-
 ````markdown
-
 # 👋 Hi, I'm Tshegofatso!
 
 ### Software Engineering • Data Science • Accounting
+
 ---
 
 ## 🚀 About Me
 
 I'm passionate about **Software Engineering** and **Data Science**, with a background in **Accounting**.
 
-My goal is to combine technology with financial knowledge to create software that helps businesses automate processes, analyze data, and make better decisions.
+My goal is to combine technology with financial knowledge to build software that helps businesses automate processes, analyze data, and make better decisions.
 
-Currently focusing on:
+I'm currently focused on:
 
 - 🐍 Python Development
 - ⚡ FastAPI
@@ -28,11 +25,18 @@ Currently focusing on:
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Python Libraries
 
 - Pandas
 - NumPy
@@ -41,34 +45,27 @@ Currently focusing on:
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CrystalAice&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystalAice&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrystalAice&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystalAice&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=CrystalAice&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=CrystalAice&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrystalAice&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrystalAice&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -76,12 +73,12 @@ Currently focusing on:
 ## 🌱 Currently Learning
 
 - Advanced FastAPI
+- Django Best Practices
 - Data Engineering
 - Machine Learning
 - Software Architecture
 - Cloud Deployment
 - API Design
-- Financial Analytics
 
 ---
 
@@ -100,17 +97,20 @@ Currently focusing on:
 ## 💼 Featured Projects
 
 ### 💰 Expense Tracker API
-A RESTful backend built using FastAPI and PostgreSQL featuring CRUD operations and database integration.
+
+A RESTful backend built with FastAPI and PostgreSQL featuring CRUD operations and database integration.
 
 ### ✅ Task Tracker
-A Django web application demonstrating backend architecture, templates, forms, and database interactions.
+
+A Django web application demonstrating templates, forms, models, and backend architecture.
 
 ### 📊 Data Analysis Projects
-Exploring business insights using Pandas, NumPy, Matplotlib, and Scikit-learn.
+
+Projects using Pandas, NumPy, Matplotlib, and Scikit-learn to solve business and financial problems.
 
 ---
 
-## 📚 My Learning Journey
+## 📚 Learning Journey
 
 ```text
 Accounting
@@ -122,20 +122,14 @@ Python Programming
 Backend Development
       │
       ▼
-Data Analysis
+Data Analytics
       │
       ▼
 Machine Learning
       │
       ▼
 Financial Technology
-````
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=CrystalAice&theme=tokyonight&no-frame=true&column=4"/>
+```
 
 ---
 
@@ -147,26 +141,19 @@ Financial Technology
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/www.linkedin.com/in/zavier-lebone-914722179)[www.linkedin.com/in/zavier-lebone-914722179](https://www.linkedin.com/in/www.linkedin.com/in/zavier-lebone-914722179)">
+<a href="https://www.linkedin.com/in/zavier-lebone-914722179" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[aicecrystal9@gmail.com](mailto:aicecrystal9@gmail.com)"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:aicecrystal9@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=CrystalAice&label=Profile%20Views&color=blue&style=flat"/>
-
-⭐ Thanks for visiting my profile!
-
-</p>
-```
+⭐ **Thanks for visiting my GitHub profile!**
+````
