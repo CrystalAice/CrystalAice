@@ -114,7 +114,7 @@ I'm always interested in learning from other developers, collaborating on projec
 
 <p>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/zavier-lebone-914722179">
+<a href=["https://www.linkedin.com/in/www.linkedin.com/in/zavier-lebone-914722179"](https://www.linkedin.com/in/zavier-lebone-914722179)>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
