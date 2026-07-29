@@ -64,6 +64,14 @@ I'm continuously learning and building projects that strengthen both my technica
 
 ## 🎯 Career Interests
 
+![Financial Data Analytics](https://img.shields.io/badge/Financial_Data_Analytics-2E8B57?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Backend Software Engineering](https://img.shields.io/badge/Backend_Engineering-4B32C3?style=for-the-badge&logo=fastapi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-E97627?style=for-the-badge&logo=powerbi&logoColor=white)
+![Management Accounting Tech](https://img.shields.io/badge/Management_Accounting_Tech-1E3A5F?style=for-the-badge&logo=quickbooks&logoColor=white)
+![FinTech Solutions](https://img.shields.io/badge/FinTech_Solutions-0A2540?style=for-the-badge&logo=stripe&logoColor=white)
+
 I'm particularly interested in opportunities involving:
 
 * Financial Data Analytics
