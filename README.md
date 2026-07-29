@@ -1,43 +1,29 @@
-````markdown
+```markdown
 # 👋 Hi, I'm Tshegofatso!
 
-### Software Engineering • Data Science • Accounting
+### Software Engineer | Data Science Enthusiast | Accounting Graduate
+
+I'm passionate about building backend applications and using data to solve business problems. My background in Accounting, combined with Software Engineering and Data Science, allows me to bridge the gap between technology and finance.
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-I'm passionate about **Software Engineering** and **Data Science**, with a background in **Accounting**.
-
-My goal is to combine technology with financial knowledge to build software that helps businesses automate processes, analyze data, and make better decisions.
-
-I'm currently focused on:
-
-- 🐍 Python Development
-- ⚡ FastAPI
-- 🌐 Django
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🗄️ SQL & PostgreSQL
-- ☁️ Backend Development
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Python Libraries
-
+### Libraries
 - Pandas
 - NumPy
 - Matplotlib
@@ -45,40 +31,26 @@ I'm currently focused on:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrystalAice&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystalAice&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CrystalAice&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrystalAice&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
-- Advanced FastAPI
-- Django Best Practices
 - Data Engineering
 - Machine Learning
 - Software Architecture
 - Cloud Deployment
 - API Design
+
+---
+
+## 💼 Featured Projects
+
+### 💰 Expense Tracker API
+REST API built with FastAPI, SQLAlchemy and PostgreSQL.
+
+### ✅ Task Tracker
+Backend web application built with Django using models, views, templates and forms.
+
+### 📊 Data Analysis
+Business and financial analysis projects using Python, Pandas and Scikit-learn.
 
 ---
 
@@ -88,72 +60,17 @@ I'm currently focused on:
 - Data Engineering
 - Financial Data Analytics
 - Machine Learning
-- Business Intelligence
 - FinTech
-- AI for Finance
 
 ---
 
-## 💼 Featured Projects
+## 📫 Connect With Me
 
-### 💰 Expense Tracker API
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tshegofatso-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zavier-lebone-914722179)
 
-A RESTful backend built with FastAPI and PostgreSQL featuring CRUD operations and database integration.
-
-### ✅ Task Tracker
-
-A Django web application demonstrating templates, forms, models, and backend architecture.
-
-### 📊 Data Analysis Projects
-
-Projects using Pandas, NumPy, Matplotlib, and Scikit-learn to solve business and financial problems.
+[![Email](https://img.shields.io/badge/Email-aicecrystal9@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aicecrystal9@gmail.com)
 
 ---
 
-## 📚 Learning Journey
-
-```text
-Accounting
-      │
-      ▼
-Python Programming
-      │
-      ▼
-Backend Development
-      │
-      ▼
-Data Analytics
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Financial Technology
+> *"Building software that transforms data into business insights."*
 ```
-
----
-
-## 💡 Quote
-
-> "The best investment you can make is in your knowledge."
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/zavier-lebone-914722179" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aicecrystal9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**
-````
