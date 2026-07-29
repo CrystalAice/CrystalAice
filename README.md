@@ -1,76 +1,101 @@
-```markdown
-# 👋 Hi, I'm Tshegofatso!
+# Hi there 👋 I'm Crystal Aice
 
-### Software Engineer | Data Science Enthusiast | Accounting Graduate
+## 🚀 About Me
 
-I'm passionate about building backend applications and using data to solve business problems. My background in Accounting, combined with Software Engineering and Data Science, allows me to bridge the gap between technology and finance.
+I'm into Software Engineering and Data Science with a background in Accounting and a growing passion for building technology that helps businesses make better decisions.
+
+My interests lie at the intersection of **software engineering, data analytics, machine learning, and management accounting**. I enjoy solving problems through code while exploring how data can improve financial decision-making, automate processes, and create business value.
+
+I'm continuously learning and building projects that strengthen both my technical and analytical skills.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+* Python
+* SQL
+* HTML
+* CSS
 
 ### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+* FastAPI
+* Django
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+* PostgreSQL
+* SQLite
 
 ### Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Data Engineering
-- Machine Learning
-- Software Architecture
-- Cloud Deployment
-- API Design
-
----
-
-## 💼 Featured Projects
-
-### 💰 Expense Tracker API
-REST API built with FastAPI, SQLAlchemy and PostgreSQL.
-
-### ✅ Task Tracker
-Backend web application built with Django using models, views, templates and forms.
-
-### 📊 Data Analysis
-Business and financial analysis projects using Python, Pandas and Scikit-learn.
+* Advanced FastAPI development
+* Django best practices
+* Machine Learning with Scikit-learn
+* Data Engineering fundamentals
+* API design and integration
+* Software architecture
+* Cloud deployment
 
 ---
 
 ## 🎯 Career Interests
 
-- Backend Software Engineering
-- Data Engineering
-- Financial Data Analytics
-- Machine Learning
-- FinTech
+I'm particularly interested in opportunities involving:
+
+* Financial Data Analytics
+* Data Engineering
+* Backend Software Engineering
+* Machine Learning Applications
+* Business Intelligence
+* Management Accounting Technology
+* FinTech Solutions
 
 ---
 
-## 📫 Connect With Me
+## 📈 What You'll Find Here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tshegofatso-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zavier-lebone-914722179)
+This GitHub is where I document my learning journey by building projects, experimenting with new technologies, and improving my programming skills.
 
-[![Email](https://img.shields.io/badge/Email-aicecrystal9@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aicecrystal9@gmail.com)
+You'll find repositories covering topics such as:
+
+* Backend web development
+* REST API development
+* Database design
+* Data analysis
+* Machine learning
+* Automation scripts
+* Python practice projects
 
 ---
 
-> *"Building software that transforms data into business insights."*
-```
+## 🌱 My Philosophy
+
+> "The best way to learn is by building."
+
+I believe every project—big or small—is an opportunity to improve as an engineer and problem solver.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers, collaborating on projects, and discussing technology, data, finance, and software engineering.
+
+Thanks for stopping by! ⭐
