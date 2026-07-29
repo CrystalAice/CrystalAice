@@ -98,4 +98,15 @@ I believe every project—big or small—is an opportunity to improve as an engi
 
 I'm always interested in learning from other developers, collaborating on projects, and discussing technology, data, finance, and software engineering.
 
+<p>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/zavier-lebone-914722179">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aicecrystal9@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 Thanks for stopping by! ⭐
