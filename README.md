@@ -86,6 +86,8 @@ I'm particularly interested in opportunities involving:
 
 ## 📈 What You'll Find Here
 
+![What you'll find here](./assets/repo-topics-banner.svg)
+
 This GitHub is where I document my learning journey by building projects, experimenting with new technologies, and improving my programming skills.
 
 You'll find repositories covering topics such as:
