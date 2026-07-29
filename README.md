@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Crystal Aice
+# Hi there 👋 I'm Tshegofatso!
 
 ## 🚀 About Me
 
