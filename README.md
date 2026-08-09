@@ -52,7 +52,7 @@ I'm continuously learning and building projects that strengthen both my technica
 
 ## 📚 Currently Learning
 
-[![roadmap.sh](https://roadmap.sh/card/tall/69b4bbaa33a0ad7a57d632f7?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69b4bbaa33a0ad7a57d632f7?variant=light" alt="roadmap.sh"/></a>
 
 * Advanced FastAPI development
 * Django best practices
