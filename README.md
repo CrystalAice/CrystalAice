@@ -52,8 +52,6 @@ I'm continuously learning and building projects that strengthen both my technica
 
 ## 📚 Currently Learning
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69b4bbaa33a0ad7a57d632f7?variant=dark" alt="roadmap.sh"/></a>
-
 * Advanced FastAPI development
 * Django best practices
 * Machine Learning with Scikit-learn
